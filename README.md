@@ -7,8 +7,8 @@ MODELING_SEMANTIC_RELATIONSHIP/
 │── Code/                                # Contains implementation notebooks
 │   ├── Diagram/                         
 │   │   ├── plot_test_score.ipynb        # Generates test accuracy comparison plots
-│   │   ├── bilstm_with_attention.ipynb  # Implements BiLSTM with attention mechanism
-│   │   ├── stacked_BiLSTM.ipynb         # Implements Stacked BiLSTM model
+│   ├── bilstm_with_attention.ipynb  # Implements BiLSTM with attention mechanism
+│   ├── stacked_BiLSTM.ipynb         # Implements Stacked BiLSTM model
 │── Report/                              # Stores the final report and figures
 │   ├── Figures/                         # Contains plots and visualizations used in the report
 │   ├── Modeling Semantic Relationships Report.pdf  # Final report detailing methodology & results
