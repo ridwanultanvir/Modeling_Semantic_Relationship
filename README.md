@@ -2,7 +2,7 @@
 
 ## 📁 Folder Structure
 
-
+```markdown
 MODELING_SEMANTIC_RELATIONSHIP/
 │── Code/                                # Contains implementation notebooks
 │   ├── Diagram/                         
@@ -13,7 +13,7 @@ MODELING_SEMANTIC_RELATIONSHIP/
 │   ├── Figures/                         # Contains plots and visualizations used in the report
 │   ├── Modeling Semantic Relationships Report.pdf  # Final report detailing methodology & results
 │── README.md                             # Project documentation
-
+```
 
 
 ## 🚀 How to Run the Code
